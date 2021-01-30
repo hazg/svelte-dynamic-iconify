@@ -11,7 +11,7 @@ Render [Iconify](https://iconify.design) icons without imports in code on [Svelt
 ```svelte
   <script>
     import Icon from 'svelte-dynamic-iconify'
-  <script>
+  </script>
 
   <Icon name="carbon:face-cool">
 ```
