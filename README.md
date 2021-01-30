@@ -1,6 +1,6 @@
 # Dynamic Iconify for Svelte
 
-Render [Iconify](https://iconify.design) icons without imports in code on [Svelte](https://https://svelte.dev/)
+Render [Iconify](https://iconify.design) icons without imports in code on [Svelte](https://svelte.dev/)
 
 ## Install
 ```bash
