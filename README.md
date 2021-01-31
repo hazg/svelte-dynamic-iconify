@@ -1,6 +1,6 @@
 # Dynamic Iconify for Svelte
 
-Render [Iconify](https://iconify.design) icons without imports in code on [Svelte](https://https://svelte.dev/)
+Render [Iconify](https://iconify.design) icons without imports in code on [Svelte](https://svelte.dev/)
 
 ## Install
 ```bash
@@ -19,4 +19,4 @@ Render [Iconify](https://iconify.design) icons without imports in code on [Svelt
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License
