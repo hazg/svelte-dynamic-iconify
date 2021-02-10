@@ -32,5 +32,6 @@
 <style>
   .iconify{
     text-align: center;
+    width: auto;
   }
 </style>
