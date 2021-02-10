@@ -15,7 +15,6 @@
 
   $: iconData = name?Iconify.getSVGObject(name):false
   $: iconExists = name?Iconify.iconExists(name):false
-  $: iconName = name
 
   export let name
 </script>
