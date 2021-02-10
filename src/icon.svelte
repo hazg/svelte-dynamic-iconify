@@ -22,7 +22,7 @@
 
 <span class="iconify">
 {#if iconExists}
-  <svg {...iconData.attributes}>
+  <svg {...Object.assign({}, iconData.attributes, $$props)}>
     {@html iconData.body }
   </svg>
 {:else}
