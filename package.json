@@ -1,14 +1,16 @@
 {
   "name": "svelte-dynamic-iconify",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Dynamic icons for Svelte",
   "main": "src/icon.svelte",
   "repository": "https://github.com/hazg/svelte-dynamic-iconify",
   "author": "Aleksandr Alksandrov <hazg@mail.ru>",
   "license": "MIT",
-  "devDependencies": {
-    "@iconify/iconify": "^1.0.7",
-    "@iconify/svelte": "^1.0.3"
+  "scripts": {
+    "dist": "rollup -c"
+  },
+  "dependencies": {
+    "@iconify/iconify": "^1.0.7"
   },
   "keywords": [
     "iconify",
