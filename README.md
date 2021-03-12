@@ -13,7 +13,7 @@ Render [Iconify](https://iconify.design) icons without imports in code on [Svelt
     import Icon from 'svelte-dynamic-iconify'
   </script>
 
-  <Icon name="carbon:face-cool">
+  <Icon name="carbon:face-cool" />
 ```
 
 

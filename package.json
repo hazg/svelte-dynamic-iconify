@@ -1,13 +1,23 @@
 {
   "name": "svelte-dynamic-iconify",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Dynamic icons for Svelte",
   "main": "src/icon.svelte",
   "repository": "https://github.com/hazg/svelte-dynamic-iconify",
   "author": "Aleksandr Alksandrov <hazg@mail.ru>",
   "license": "MIT",
+  "devDependencies": {
+    "@iconify/iconify": "^1.0.7"
+  },
   "dependencies": {
-    "@iconify/iconify": "^1.0.7",
     "@iconify/svelte": "^1.0.3"
-  }
+  },
+  "keywords": [
+    "iconify",
+    "svelte",
+    "dynamic",
+    "simple",
+    "fontawesome",
+    "icons"
+  ]
 }

@@ -1,7 +1,6 @@
 
 <script>
   import Iconify from '@iconify/iconify';
-  import Spinner from './components/spinner';
   import { onMount } from 'svelte'
 
   onMount(async () => {
@@ -24,8 +23,6 @@
   <svg {...Object.assign({}, iconData.attributes, $$props)}>
     {@html iconData.body }
   </svg>
-{:else}
-  <Spinner />
 {/if}
 </span>
 
