@@ -2,6 +2,10 @@
 
 Render [Iconify](https://iconify.design) icons without imports in code on [Svelte](https://svelte.dev/)
 
+dev version
+===========
+do not use in production
+
 ## Install
 ```bash
   yarn add hazg/svelte-dynamic-iconify
