@@ -1,6 +1,6 @@
 {
   "name": "svelte-dynamic-iconify",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Dynamic icons for Svelte",
   "main": "src/icon.svelte",
   "svelte": "src/icon.svelte",
