@@ -25,15 +25,3 @@
   </svg>
 {/if}
 </span>
-
-<style lang="scss">
-  .iconify {
-    text-align: center;
-    width: 100%;
-    
-    svg {
-      width: 100%;
-      height: auto;
-    }
-  }
-</style>
