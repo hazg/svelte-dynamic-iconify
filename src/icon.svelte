@@ -25,3 +25,9 @@
   </svg>
 {/if}
 </span>
+
+<style>
+  svg{
+    height: auto;
+  }
+</style>
