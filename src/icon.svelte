@@ -26,9 +26,14 @@
 {/if}
 </span>
 
-<style>
-  .iconify{
+<style lang="scss">
+  .iconify {
     text-align: center;
     width: auto;
+    
+    svg {
+      width: 100%;
+      height: auto;
+    }
   }
 </style>
