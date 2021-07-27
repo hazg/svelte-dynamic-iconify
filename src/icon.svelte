@@ -29,7 +29,7 @@
 <style lang="scss">
   .iconify {
     text-align: center;
-    width: auto;
+    width: 100%;
     
     svg {
       width: 100%;
