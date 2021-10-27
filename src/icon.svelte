@@ -1,6 +1,6 @@
 
 <script>
-  import Iconify from '@iconify/iconify';
+  import { Iconify } from '@iconify/iconify';
   import { onMount } from 'svelte'
 
   onMount(async () => {
