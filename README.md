@@ -1,4 +1,4 @@
-## DEPRECATED
+## !!! DEPRECATED !!!
 
 Use [@iconify/svelte](https://docs.iconify.design/icon-components/svelte/)
 
