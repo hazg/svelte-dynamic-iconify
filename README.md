@@ -6,16 +6,12 @@ Use [@iconify/svelte](https://docs.iconify.design/icon-components/svelte/)
 
 Render [Iconify](https://iconify.design) icons without imports in code on [Svelte](https://svelte.dev/)
 
-dev version
-===========
-do not use in production
-
-## Install
+# Install
 ```bash
   yarn add hazg/svelte-dynamic-iconify
 ```
 
-## Use
+# Use
 ```svelte
   <script>
     import Icon from 'svelte-dynamic-iconify'
@@ -25,6 +21,6 @@ do not use in production
 ```
 
 
-## License
+# License
 
 This project is licensed under the MIT License
