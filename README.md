@@ -2,7 +2,7 @@
 
 Use [@iconify/svelte](https://docs.iconify.design/icon-components/svelte/)
 
-# Dynamic Iconify for Svelte
+### Dynamic Iconify for Svelte
 
 Render [Iconify](https://iconify.design) icons without imports in code on [Svelte](https://svelte.dev/)
 
